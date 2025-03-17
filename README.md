@@ -104,7 +104,7 @@
 <p>随机播放视频，支持多视频源和缩略图提取 (3⭐)</p>
 
 <a href="https://github.com/NanSsye/CogVideoX">
-  <img src="https://img.shields.io/github/stars/NanSsye/CogVideoX?style=flat-square&label=GuessIdiom&color=blue&logo=github" alt="GuessIdiom" />
+  <img src="https://img.shields.io/github/stars/NanSsye/CogVideoX?style=flat-square&label=CogVideoX&color=blue&logo=github" alt="GuessIdiom" />
 </a>
 <p>使用智谱 AI 最先进的 CogVideoX 模型生成高质量视频！ (⭐)</p>
 
