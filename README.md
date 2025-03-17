@@ -156,8 +156,21 @@
 ## 📫 联系我
 
 - 💬 微信公众号: 老夏的金库
-<img src="https://github.com/user-attachments/assets/a2627960-69d8-400d-903c-309dbeadf125" width="400">
+
 ---
+<div align="center">
+  
+<img src="https://github.com/user-attachments/assets/a2627960-69d8-400d-903c-309dbeadf125" width="400">
+
+</div>
+
+<div align="center">
+  
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NanSsye/Dify,NanSsye/ChatSummary,NanSsye/Music&type=Date)](https://www.star-history.com/#NanSsye/Dify&NanSsye/ChatSummary&NanSsye/Music&Date)
+
+</div>
 
 <div align="center">
   
