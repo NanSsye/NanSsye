@@ -14,26 +14,26 @@
 
 <div align="center">
 
-**机器人开发者 | AI集成专家 | XYBotV2 插件开发者**
+**机器人开发者 | AI 集成专家 | XYBotV2 插件开发者**
 
 </div>
 
 ## 🧑‍💻 关于我
 
-我是一名专注于AI机器人开发和智能助手集成的开发者，致力于打造实用、智能的应用体验。主要工作领域包括：
+我是一名专注于 AI 机器人开发和智能助手集成的开发者，致力于打造实用、智能的应用体验。主要工作领域包括：
 
 - 🤖 **微信机器人插件**开发和优化
-- 🧠 **AI模型集成**（Dify、Gemini、FastGPT等）
+- 🧠 **AI 模型集成**（Dify、Gemini、FastGPT 等）
 - 🎯 自动化工具和**智能助手**开发
 - 🔊 **语音交互**和多模态应用
 
-我享受将新技术转化为实用工具的过程，希望通过我的作品让AI技术更好地服务日常生活和工作。
+我享受将新技术转化为实用工具的过程，希望通过我的作品让 AI 技术更好地服务日常生活和工作。
 
 ---
 
 ## 🌟 XYBotV2 插件合集
 
-我为[XYBotV2](https://github.com/XYBotV2)微信机器人框架开发了一系列实用插件，涵盖AI对话、媒体处理、实用工具等多个领域：
+我为[XYBotV2](https://github.com/XYBotV2)微信机器人框架开发了一系列实用插件，涵盖 AI 对话、媒体处理、实用工具等多个领域：
 
 <table>
 <tr>
@@ -129,11 +129,11 @@
 
 ---
 
-## 📈 我的GitHub统计
+## 📈 我的 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NanSsye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanSsye&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NanSsye&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanSsye&layout=compact&langs_count=7&theme=radical" height="180em"/>
 </div>
 
 ---
@@ -158,6 +158,7 @@
 - 💬 微信公众号: 老夏的金库
 
 ---
+
 <div align="center">
   
 <img src="https://github.com/user-attachments/assets/a2627960-69d8-400d-903c-309dbeadf125" width="400">
