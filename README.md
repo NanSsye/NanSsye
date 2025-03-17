@@ -69,12 +69,12 @@
 <a href="https://github.com/NanSsye/ChatSummary">
   <img src="https://img.shields.io/github/stars/NanSsye/ChatSummary?style=flat-square&label=ChatSummary&color=blue&logo=github" alt="ChatSummary" />
 </a>
-<p>总结个人和群聊记录，生成话题、参与者等报告 (7⭐)</p>
+<p>总结个人和群聊记录，生成话题、参与者等报告 </p>
 
 <a href="https://github.com/NanSsye/Reminder">
   <img src="https://img.shields.io/github/stars/NanSsye/Reminder?style=flat-square&label=Reminder&color=green&logo=github" alt="Reminder" />
 </a>
-<p>为XYBotV2添加提醒功能，支持定时提醒 (4⭐)</p>
+<p>为XYBotV2添加提醒功能，支持定时提醒 </p>
 
 <a href="https://github.com/NanSsye/StockAnalysis">
   <img src="https://img.shields.io/github/stars/NanSsye/StockAnalysis?style=flat-square&label=StockAnalysis&color=red&logo=github" alt="StockAnalysis" />
@@ -96,17 +96,17 @@
 <a href="https://github.com/NanSsye/GuessIdiom">
   <img src="https://img.shields.io/github/stars/NanSsye/GuessIdiom?style=flat-square&label=GuessIdiom&color=blue&logo=github" alt="GuessIdiom" />
 </a>
-<p>看图猜成语的趣味插件 (4⭐)</p>
+<p>看图猜成语的趣味插件 </p>
 
 <a href="https://github.com/NanSsye/VideoSender">
   <img src="https://img.shields.io/github/stars/NanSsye/VideoSender?style=flat-square&label=VideoSender&color=purple&logo=github" alt="VideoSender" />
 </a>
-<p>随机播放视频，支持多视频源和缩略图提取 (3⭐)</p>
+<p>随机播放视频，支持多视频源和缩略图提取 </p>
 
 <a href="https://github.com/NanSsye/CogVideoX">
   <img src="https://img.shields.io/github/stars/NanSsye/CogVideoX?style=flat-square&label=CogVideoX&color=blue&logo=github" alt="GuessIdiom" />
 </a>
-<p>使用智谱 AI 最先进的 CogVideoX 模型生成高质量视频！ (⭐)</p>
+<p>使用智谱 AI 最先进的 CogVideoX 模型生成高质量视频！ </p>
 
 </td>
 <td align="center">
@@ -116,12 +116,12 @@
 <a href="https://github.com/NanSsye/Music">
   <img src="https://img.shields.io/github/stars/NanSsye/Music?style=flat-square&label=Music&color=green&logo=github" alt="Music" />
 </a>
-<p>增强XYBotV2的音乐播放功能 (6⭐)</p>
+<p>增强XYBotV2的音乐播放功能 </p>
 
 <a href="https://github.com/NanSsye/BiliSearchPlugin">
   <img src="https://img.shields.io/github/stars/NanSsye/BiliSearchPlugin?style=flat-square&label=BiliSearchPlugin&color=pink&logo=github" alt="BiliSearchPlugin" />
 </a>
-<p>搜索B站视频并提供播放链接，支持剧集选择 (3⭐)</p>
+<p>搜索B站视频并提供播放链接，支持剧集选择 </p>
 
 <a href="https://github.com/NanSsye/DifyConversationManager">
   <img src="https://img.shields.io/github/stars/NanSsye/DifyConversationManager?style=flat-square&label=DifyConversationManager&color=teal&logo=github" alt="DifyConversationManager" />
