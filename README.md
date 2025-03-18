@@ -86,6 +86,11 @@
 </a>
 <p>自动总结文本内容和卡片消息，集成Dify AI</p>
 
+<a href="https://github.com/NanSsye/DependencyManager">
+  <img src="https://img.shields.io/github/stars/NanSsye/DependencyManager?style=flat-square&label=DependencyManager&color=yellow&logo=github" alt="DependencyManager" />
+</a>
+<p>依赖包管理插件 - 允许管理员通过微信命令安装Python依赖包和Github插件</p>
+
 </td>
 </tr>
 <tr>
@@ -104,7 +109,7 @@
 <p>随机播放视频，支持多视频源和缩略图提取 </p>
 
 <a href="https://github.com/NanSsye/CogVideoX">
-  <img src="https://img.shields.io/github/stars/NanSsye/CogVideoX?style=flat-square&label=CogVideoX&color=blue&logo=github" alt="GuessIdiom" />
+  <img src="https://img.shields.io/github/stars/NanSsye/CogVideoX?style=flat-square&label=CogVideoX&color=blue&logo=github" alt="CogVideoX" />
 </a>
 <p>使用智谱 AI 最先进的 CogVideoX 模型生成高质量视频！ </p>
 
