@@ -65,7 +65,7 @@
 
 ---
 
-## 🌟 XYBotV2 插件合集
+## 🌟 xxxbot 插件合集
 
 我为[XYBotV2](https://github.com/XYBotV2)微信机器人框架开发了一系列实用插件，涵盖 AI 对话、媒体处理、实用工具等多个领域：
 
